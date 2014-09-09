@@ -1,5 +1,9 @@
 This is a bot written in python that runs in whatsapp and is purely an extension of [yowsup](https://github.com/tgalal/yowsup).
 
+##CAUTION##
+Although this used to work fine, I got two numbers banned(?) in late August, 2014. 
+So, please be warned.
+
 ##Installation##
 The installation process is quite simple
 

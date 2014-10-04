@@ -1,5 +1,5 @@
 import urllib2
-import simplejson
+import json as simplejson
 import urllib
 import cStringIO
 import json as m_json
